@@ -30,3 +30,6 @@ Icon
 # Local History for Visual Studio Code
 .history/
 LESSON_1/build
+# lesson_2
+LESSON_2/lesson_2.dSYM
+!LESSON_2/lesson_2.cpp
